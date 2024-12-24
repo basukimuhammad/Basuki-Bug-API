@@ -1,17 +1,17 @@
 require("./doc/module.js")
 
 global.prefix = ['','!','.',',','#','/']
-global.owner = ['916909137213']
-global.ownMain = '916909137213'
-global.NamaOwner = '🦄드림 가이 Xeon' //
+global.owner = ['6283167665895']
+global.ownMain = '6283167665895'
+global.NamaOwner = '˜”*°• BASUKI STORE •°*”˜' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = 'X-EndPoint' //
-global.author = '🦄드림 가이 Xeon' //
-global.packname = 'Xeon-Bug-API' //
-global.url1 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.url2 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.author = 'Basuki Official' //
+global.packname = 'Basuki-Bug-API' //
+global.url1 = 'https://chat.whatsapp.com/H8xLDwv1hRk4H2IbaeOQzC' //
+global.url2 = 'https://chat.whatsapp.com/H8xLDwv1hRk4H2IbaeOQzC' //
+global.linkgc = 'https://chat.whatsapp.com/H8xLDwv1hRk4H2IbaeOQzC'
 global.delayjpm = 3500
  
 
